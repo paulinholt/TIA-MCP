@@ -2,6 +2,8 @@
 
 A MCP server which connects to Siemens TIA Portal.
 
+Maintained by **Paulo Leal Taveira** — fork of [heilingbrunner/tiaportal-mcp](https://github.com/heilingbrunner/tiaportal-mcp) with additional fixes and extensions.
+
 ## Features
 
 - Connect to a TIA Portal instance
